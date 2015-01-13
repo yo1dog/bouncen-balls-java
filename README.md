@@ -1,0 +1,1 @@
+My first Java game, Ball is a simple game where the objective is to get your red ball to the green one while avoiding the blue ones. It features both a local and global high-score table, however there is no guarantee that the global high-score table sever is up because it uses a temporary hosting service.
